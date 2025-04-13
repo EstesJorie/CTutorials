@@ -2,7 +2,7 @@
 
 <p align="center">
     <picture>
-        <img src="./C_Logo.png" alt="C Logo" width=50%>
+        <img src="./C_Logo.png" alt="C Logo" width=10%%>
     </picture>
 </p>
 
