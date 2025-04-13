@@ -2,7 +2,6 @@
 
 <p align="center">
     <picture>
-        <source srcset="./C_Logo.png">
         <img src="./C_Logo.png" alt="C Logo" width=50%>
     </picture>
 </p>
