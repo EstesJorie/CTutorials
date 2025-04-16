@@ -24,4 +24,4 @@ All of the complied files in this repo were combined with the GCC complier. To c
 
 > gcc --std=c11 -Wall -pedantic ./[foldername]/Sources/[file.c] -o [program_name]
 
-> ./f=[foldername]/Sources/[program_name] 
+> ./[foldername]/Sources/[program_name] 
