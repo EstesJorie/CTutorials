@@ -2,7 +2,7 @@
 
 <p align="center">
     <picture>
-        <img src="./C_Logo.png" alt="C Logo" width=10%%>
+        <img src="./C_Logo.png" alt="C Logo" width=35%>
     </picture>
 </p>
 
@@ -16,8 +16,12 @@ All of the complied files in this repo were combined with the GCC complier. To c
 
 ### From Sources folder:
 
-> gcc --std=c11 -Wall -pedantic main.c
+> Gcc -std=c11 -Wall -pedantic [file.c] -o [program_name]
+
+> ./[program_name]
 
 ### From main directory of repo
 
-> gcc --std=c11 -Wall -pedantic [foldername]/Sources/[.c file]
+> gcc --std=c11 -Wall -pedantic ./[foldername]/Sources/[file.c] -o [program_name]
+
+> ./[foldername]/Sources/[program_name] 
